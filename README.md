@@ -3,7 +3,7 @@
 A **Streamlit-based web application** for detecting emotions in text using a pre-trained machine learning model. This application provides real-time emotion analysis, visualizes prediction probabilities, and displays emotions with associated emojis for an engaging user experience.
 
 ![App Preview](https://github.com/MayurjareMJ/Text-Emotion-Detection-Web-App/blob/main/Sample_img/Screenshot%202025-01-05%20175833.png) <!-- Replace this with an actual screenshot -->
-![App Preview](https://github.com/MayurjareMJ/Text-Emotion-Detection-Web-App/blob/main/Sample_img/Screenshot%202025-01-05%20175833.png)
+![App Preview](https://github.com/MayurjareMJ/Text-Emotion-Detection-Web-App/blob/main/Sample_img/Screenshot%202025-01-05%20175858.png)
 
 
 ## Features
